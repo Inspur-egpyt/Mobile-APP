@@ -1,0 +1,3 @@
+# distribute via GitHub Releases, not git
+*.ipa
+*.docx
